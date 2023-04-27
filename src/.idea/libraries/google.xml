@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="google">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zad1/gson-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
